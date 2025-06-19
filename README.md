@@ -75,8 +75,13 @@ Procesa un pedido de forma asíncrona.
   "message": "Order received and is being processed asynchronously"
 }
 ```
+---
+### GET `/orders/{orderId}`
+Obtiene un pedido procesado previamente.
 
 ---
+### GET `/orders/count`
+Total de pedidos procesados.
 
 ## 🧪 Pruebas
 
