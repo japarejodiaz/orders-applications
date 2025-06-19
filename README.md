@@ -48,7 +48,7 @@ Accede a:
 
 ## 📌 Endpoints principales
 
-### POST `/api/orders/process`
+### POST `/orders/processOrder`
 
 Procesa un pedido de forma asíncrona.
 
